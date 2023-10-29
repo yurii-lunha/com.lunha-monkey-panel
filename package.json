@@ -3,7 +3,7 @@
   "version": "0.0.1",
   "description": "Unity component \"Monkey Panel\". Controls the visibility of the RectTransform.",
   "displayName": "Lunha - Monkey Panel",
-  "unity": "2022.3",
+  "unity": "2021.3",
   "author": {
     "name": "Yurii Lunha",
     "email": "yurii.lunha.dev@gmail.com",
@@ -16,5 +16,5 @@
   "keywords": ["ui", "panel"],
   "license": "MIT",
   "licensesUrl": "https://mit-license.org/",
-  "unityRelease": "10f1"
+  "unityRelease": "30f1"
 }
