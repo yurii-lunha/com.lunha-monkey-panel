@@ -1,6 +1,6 @@
 {
-  "name": "com.lunha-monkey-panel",
-  "version": "0.0.1",
+  "name": "@ylunha/com.lunha-monkey-panel",
+  "version": "0.0.2",
   "description": "Unity component \"Monkey Panel\". Controls the visibility of the RectTransform.",
   "displayName": "Lunha - Monkey Panel",
   "unity": "2021.3",
